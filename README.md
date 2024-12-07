@@ -19,5 +19,5 @@ getjs [options] <url>
  --url <domain> : to search javascript files in domain
 
 =============== Example ===============
-getjs --url test.com
+ getjs --url test.com
 ```
