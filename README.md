@@ -4,5 +4,18 @@ In the ever-evolving landscape of web security, JavaScript flaws are becoming in
 
 ## USAGE
 ```
+--------------------
+GETJS V1.1
+BY LIME
+--------------------
+
+getjs [options] <url>
+
+=============== TIPS ===============
+ <options> : tool option like (--url)
+ <url> : Only Url without http:// or https://
+
+=============== OPTIONS ===============
+ --url <domain> : to search javascript files in domain
 
 ```
